@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/IST-PC/AndroidStudioProjects/JellyPay/app/src/main/res/layout/activity_authentication_avtivity.xml" value="0.1" />
+        <entry key="..\:/Users/IST-PC/AndroidStudioProjects/JellyPay/app/src/main/res/layout/activity_dashboard.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/IST-PC/AndroidStudioProjects/JellyPay/app/src/main/res/layout/activity_log_in.xml" value="0.22" />
         <entry key="..\:/Users/IST-PC/AndroidStudioProjects/JellyPay/app/src/main/res/layout/activity_main.xml" value="0.1824074074074074" />
         <entry key="..\:/Users/IST-PC/AndroidStudioProjects/JellyPay/app/src/main/res/layout/activity_register.xml" value="0.25" />
